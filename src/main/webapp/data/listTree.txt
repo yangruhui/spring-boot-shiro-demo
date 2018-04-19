@@ -1,0 +1,5 @@
+﻿[
+	{id: "1", text: "用户权限管理"},
+	{id: "2", text: "权限资源管理", pid: "1", url: "../../html/admin/permissionList.html"}
+
+]

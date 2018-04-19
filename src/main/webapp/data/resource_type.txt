@@ -1,0 +1,4 @@
+﻿[
+    { "id": "menu", "text": "menu" },
+	{ "id": "button", "text": "button" }
+]
